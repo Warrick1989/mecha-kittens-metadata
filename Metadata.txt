@@ -1,0 +1,8 @@
+{
+  "name": "Mecha Kittens",
+  "symbol": "MK",
+  "decimals": 18,
+  "image": "https://example.com/token-image.png",
+  "description": "Discover the enchanting world of Mecha Kittens, a unique NFT collection on the blockchain. Each token embodies a fusion of futuristic technology and adorable feline charm. Own a piece of this digital masterpiece and join the community of Mecha Kitten enthusiasts. Embrace the future with Mecha Kittens!"
+  // Add other metadata properties as needed
+}
